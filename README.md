@@ -1,1 +1,1 @@
-##  [下载](https://github.com/Zy143L/jd_cookie/releases)
+https://github.com/Zy143L/wskey
